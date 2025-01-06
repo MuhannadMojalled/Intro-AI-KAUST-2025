@@ -1,4 +1,4 @@
-## KAUST Academy | Intro to AI | Jan 2025
+# Stage 2: Introduction to Artificial Intelligence, KAUST Academy
 
 ## Materials (will be updated daily)
 
