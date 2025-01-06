@@ -1,5 +1,8 @@
 # Stage 2: Introduction to Artificial Intelligence, KAUST Academy
 
+
+Welcome to Stage 2 of the Artificial Intelligence Program! This repository contains hands-on and Python tutorials designed to help you master AI fundamentals. Through interactive Colab notebooks, we'll explore key concepts from linear regression to neural networks. 
+
 ## Materials (will be updated daily)
 
 | Topic | Open in Colab |
