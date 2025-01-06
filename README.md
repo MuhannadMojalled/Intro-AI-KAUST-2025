@@ -18,7 +18,7 @@ Welcome to Stage 2 of the Artificial Intelligence Program! This repository conta
 - [Interactive Linear Regression](https://observablehq.com/@yizhe-ang/interactive-visualization-of-linear-regression) 
 - [Sklearn documentation](https://scikit-learn.org/1.5/modules/generated/sklearn.linear_model.LogisticRegression.html) 
 - [Pandas Documentation](https://pandas.pydata.org/docs/user_guide/10min.html) 
-- [Numpy Documentation](https://numpy.org/doc/) 
+- [Numpy Documentation](https://numpy.org/doc/2.0/) 
 - [Useful Documentation for NN in Pytorch](https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html)
 
 
