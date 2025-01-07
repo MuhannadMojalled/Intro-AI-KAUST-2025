@@ -8,7 +8,7 @@ Welcome to Stage 2 of the Artificial Intelligence Program! This repository conta
 | Topic | Open in Colab | Slides |
 |:-----:|:------------:|:---------:|
 | Linear Regression Basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |  [Day 1](./day_1/Day_1.pptx) |
-| Logistic Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] () | [Day 2](./day_2/Day_2.pptx) |
+| Logistic Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [Day 2](./day_2/Day_2.pptx) |
 | Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1s6QcZ1iglAvuQqWvV3P0JAkNfJftWNzq?usp=sharing)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [Day 3](./day_3/Day_3.pptx) |
 | Applications | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [Day 4](./day_4/Day_4.pptx) |
 
